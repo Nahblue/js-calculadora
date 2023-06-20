@@ -9,3 +9,5 @@ Exercício do curso explorer da Rocketseat de criar uma calculadora que tem as s
 - O resto da divisão dos dois números;
 - Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
 - Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
+
+[Link da calculadora](https://nahblue.github.io/js-calculadora/)
